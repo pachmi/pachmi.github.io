@@ -18,5 +18,5 @@ My Github page is http://github.com/pachmi.
 
 * Lab 7
 
-    Lab 7 part 2 This lab in particular was very challenging but I liked the concept of the lab a lot. Making a game like black jack incorporates a lot of what we had learned throughout the semester. Though this code was challenging it was very rewarding once we finished. 
+    Lab 7 part 2 This lab in particular was very challenging but I liked the concept of the lab a lot. Making a game like black jack incorporates a lot of what we had learned throughout the semester so it was a lot of fun figuring out the code. Though this code was challenging it was very rewarding once we finished. 
 
